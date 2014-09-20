@@ -72,7 +72,6 @@ public class FileSystemService {
             + "<header>ConvertTo - Sitemap</header>" + LINE_BREAK
             + "<nav><a href='index.php'>Back to ConvertTo</a></nav>" + LINE_BREAK
             + "{{sitemapcontent}}" + LINE_BREAK
-            + "<div id=\"content\">" + LINE_BREAK
             + "</div>" + LINE_BREAK
             + "<?php" + LINE_BREAK
             + "include(\"parts/scripts.php\"); ?>" + LINE_BREAK
